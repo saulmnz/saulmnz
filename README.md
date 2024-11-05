@@ -9,9 +9,6 @@
 
 ![mario-working](https://github.com/user-attachments/assets/64f5835c-976c-45e2-986f-f395ec5ceee9)
 <br><br>
-#### :mailbox_with_no_mail:	Reach me at: https://www.linkedin.com/in/sa%C3%BAl-%C3%A1lvarez-monz%C3%B3n-bb2aa7336
-
-<br><br>
 
 
 # 💻 Tech Stack:
