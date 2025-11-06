@@ -10,8 +10,8 @@
   
   <!-- Estadísticas de GitHub (estilo panel oscuro como en tu imagen) -->
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=2Isaul&show_icons=true&theme=dark&count_private=true&include_all_commits=true&bg_color=0D1117&border_color=30363D&text_color=FFFFFF&icon_color=6A5ACD" alt="GitHub Stats" width="480">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2Isaul&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&text_color=FFFFFF&icon_color=6A5ACD" alt="Top Languages" width="480">
+    <img src="https://github-readme-stats.vercel.app/api?username=saulmnz&show_icons=true&theme=dark&count_private=true&include_all_commits=true&bg_color=0D1117&border_color=30363D&text_color=FFFFFF&icon_color=6A5ACD" alt="GitHub Stats" width="480">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulmnz&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&text_color=FFFFFF&icon_color=6A5ACD" alt="Top Languages" width="480">
   </div>
   
   <br>
