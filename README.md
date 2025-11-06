@@ -1,6 +1,8 @@
 # Buenas Buenas!! Mi nombre es Saúl 👀🫧
 
   > **🐳 Técnico de grado Medio y Superior en Sistemas Microinformáticos en Red y Desarrollo de Aplicaciones Multiplataforma. Me encuentro en constante desarrollo y aprendizaje. Soy una persona curiosa con afán de aprender nuevas tecnologías y apasionado por la colaboración en proyectos innovadores.**     
+
+<br>
     
   <div align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
