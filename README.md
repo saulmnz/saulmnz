@@ -3,7 +3,9 @@
   > **🐳 Técnico de grado Medio y Superior en Sistemas Microinformáticos en Red y Desarrollo de Aplicaciones Multiplataforma. Actualmente en continuo desarrollo y aprendizaje para mejorar mi dominio en el sector. Soy una persona curiosa con afán de aprender nuevas tecnologías y apasionado por la colaboración en proyectos innovadores.**     
 
 > 🐙 **En constante aprendizaje**: Siempre buscando nuevos frameworks, patrones y buenas prácticas.
+
 > 🪼 **Colaborador activo**: Interesado en unirme a equipos donde pueda aportar valor y crecer junto a otros.
+
 > 🐧 **Proyectos reales**: Desde aplicaciones web hasta soluciones con contenedores y automatización.
 
 <br>
