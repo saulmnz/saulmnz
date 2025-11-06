@@ -4,7 +4,7 @@
 
 
 <div style="text-align: center; margin: 20px 0;">
-    <img src="https://i.pinimg.com/originals/ef/37/57/ef375738b5d3cc1bd9216f86c58148a9.gif" width="100%" alt="GIF Animado" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <img src="https://i.pinimg.com/originals/47/70/c0/4770c05a38dc4e3459c29894fa804667.gif" width="100%" alt="GIF Animado" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 </div>
 
 <br>
