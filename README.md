@@ -3,6 +3,7 @@
 > **🐳 Técnico de grado Medio y Superior en Sistemas Microinformáticos en Red y Desarrollo de Aplicaciones Multiplataforma. Actualmente en continuo desarrollo y aprendizaje para mejorar mi dominio en el sector, siempre trato de buscar nuevos frameworks, patrones y buenas prácticas. Soy una persona curiosa con afán de aprender nuevas tecnologías y apasionado e interesado en la colaboración de proyectos innovadores y equipos donde pueda aportar valor y crecer junto a otros.**     
 
 
+![img](https://i.pinimg.com/originals/ba/9f/af/ba9fafc3ad6c1d066b9ccd47d606cb35.gif)
 
 
 <br>
@@ -18,11 +19,9 @@
     <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
   </div>
 
-      <br>
+<br>
     
-      ![img](https://i.pinimg.com/originals/ba/9f/af/ba9fafc3ad6c1d066b9ccd47d606cb35.gif)
-    
-      <br>
+
   
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=saulmnz&show_icons=true&theme=dark&count_private=true&include_all_commits=true&bg_color=0D1117&border_color=30363D&text_color=FFFFFF&icon_color=6A5ACD" alt="GitHub Stats" width="480">
