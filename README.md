@@ -39,14 +39,14 @@
 ---
 
 ## 🛠️ Tecnologías que domino (y las que estoy aprendiendo)
-  <div align="center">
-    | Categoría          | Tecnologías                                                                 |
-    |--------------------|-----------------------------------------------------------------------------|
-    | **Backend**        | Java, Spring Boot, Node.js, Python, Hibernate                               |
-    | **Frontend**       | HTML, CSS, JavaScript, React, TypeScript                                    |
-    | **DevOps & Cloud** | Docker, GitHub Actions, AWS (básico), Git                                   |
-    | **Mobile**         | Kotlin (Android), Flutter (en proceso)                                      |
-    | **Bases de Datos** | MySQL, MongoDB                                                              |
+
+   | Categoría          | Tecnologías                                                                 |
+   |--------------------|-----------------------------------------------------------------------------|
+   | **Backend**        | Java, Spring Boot, Node.js, Python, Hibernate                               |
+   | **Frontend**       | HTML, CSS, JavaScript, React, TypeScript                                    |
+   | **DevOps & Cloud** | Docker, GitHub Actions, AWS (básico), Git                                   |
+   | **Mobile**         | Kotlin (Android), Flutter (en proceso)                                      |
+   | **Bases de Datos** | MySQL, MongoDB                                                              |
       
     
   <div align="center">
@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
   </div>
   
-  </div>
+  
 ---
 
 
