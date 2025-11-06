@@ -29,7 +29,7 @@
 
 ---
 
-## 🐢 Tecnologías que domino (y las que estoy aprendiendo) 🐇
+## 🐢 Tecnologías que domino ( y las que estoy aprendiendo ) 🐇
 
    | Categoría          | Tecnologías                                                                                     |
    |--------------------|-------------------------------------------------------------------------------------------------|
