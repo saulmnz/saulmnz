@@ -3,7 +3,6 @@
 > **🐳 Técnico de grado Medio y Superior en Sistemas Microinformáticos en Red y Desarrollo de Aplicaciones Multiplataforma. Actualmente en continuo desarrollo y aprendizaje para mejorar mi dominio en el sector, siempre trato de buscar nuevos frameworks, patrones y buenas prácticas. Soy una persona curiosa con afán de aprender nuevas tecnologías y apasionado e interesado en la colaboración de proyectos innovadores y equipos donde pueda aportar valor y crecer junto a otros.**     
 
 
-![img](https://i.pinimg.com/originals/ba/9f/af/ba9fafc3ad6c1d066b9ccd47d606cb35.gif)
 
 
 <br>
@@ -18,7 +17,11 @@
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
     <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
   </div>
-  
+
+  <br>
+
+  ![img](https://i.pinimg.com/originals/ba/9f/af/ba9fafc3ad6c1d066b9ccd47d606cb35.gif)
+
   <br>
   
   <div align="center">
