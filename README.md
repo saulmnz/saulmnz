@@ -20,9 +20,10 @@
 ---
 
 
-
-## Tecnologías & Herramientas 🐢🐇
 <div align="center">
+    
+  ## Tecnologías & Herramientas 🐢🐇
+
     
   ### 🦔 Backend
   ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)  
