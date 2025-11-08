@@ -11,7 +11,7 @@
 
 <br>
 
-> [!TIP]  
+> [!IMPORTANT]
 > **Soy una persona curiosa con afán de aprender nuevas tecnologías y apasionado e interesado en la colaboración de proyectos innovadores y equipos donde pueda aportar valor y crecer junto a otros.**
 
 <br>
