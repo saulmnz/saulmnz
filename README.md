@@ -23,6 +23,7 @@
 
 ## Tecnologías & Herramientas 🐢🐇
 <div align="center">
+    
   ### 🦔 Backend
   ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)  
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white&style=for-the-badge)  
@@ -50,6 +51,7 @@
   ### 🎭 Bases de Datos
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+
 </div>
 ---
 
