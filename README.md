@@ -25,12 +25,12 @@
     
 ## Tecnologías & Herramientas 🐢🐇
 
-> [!NOTE]
-> ⚙️ **Backend: Java · Spring Boot · Python · Node.js**
-> 🎨 **Frontend: JS/TS · React · HTML/CSS**
-> 🚀 **DevOps: Docker · GitHub Actions · Git**  
-> 🗄️ **DB: MySQL · MongoDB**
-> 📱 **Mobile: Kotlin · Flutter (en progreso)**
+> [!NOTE]  
+> ⚙️ **Backend:** Java · Spring Boot · Python · Node.js<br>  
+> 🎨 **Frontend:** JS/TS · React · HTML/CSS<br>  
+> 🚀 **DevOps:** Docker · GitHub Actions · Git<br>  
+> 🗄️ **DB:** MySQL · MongoDB<br>  
+> 📱 **Mobile:** Kotlin · Flutter *(en progreso)*
 
 ---
 
