@@ -4,18 +4,19 @@
 
 <br>
 
-<div style="text-align: center; margin: 20px 0;">
-    <img src="https://i.pinimg.com/originals/5d/c0/b0/5dc0b09e4922c6862500eb4c1992e72e.gif" width="100%" alt="GIF Animado" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-</div>
-
-<br>
-    
-
-  
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=saulmnz&show_icons=true&theme=dark&count_private=true&include_all_commits=true&bg_color=0D1117&border_color=30363D&text_color=FFFFFF&icon_color=6A5ACD" alt="GitHub Stats" width="480">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulmnz&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&text_color=FFFFFF&icon_color=6A5ACD" alt="Top Languages" width="480">
   </div>
+  
+<br>
+
+<div style="text-align: center; margin: 20px 0;">
+    <img src="https://i.pinimg.com/originals/17/28/5f/17285fc448d970cdd53b1b3ba11d7e66.gif" width="100%" alt="GIF Animado" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+</div>
+
+<br>
+    
 
 ---
 
