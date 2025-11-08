@@ -38,4 +38,19 @@
   
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Impact&size=26&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Buenas+Buenas!+Saúl;Técnico+Superior+en+Sistemas+y+Redes;Desarrollo+Multiplataforma;En+constante+aprendizaje" alt="Saúl - Typing Banner" />
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/Progress-360%20Commits%20%7C%20C%2B%20Rank-6A5ACD?style=flat&logo=github&logoColor=white" alt="Progress Badge" />
+  
+  <br><br>
+  
+  <img src="https://i.pinimg.com/originals/ef/37/57/ef375738b5d3cc1bd9216f86c58148a9.gif" width="85%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+  
+  <br><br>
+  
+  <!-- tus badges, stats, etc -->
+</div>
 
