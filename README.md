@@ -25,7 +25,7 @@
     
 ## Tecnologías & Herramientas 🐢🐇
 
->> [!NOTE] 
+> [!NOTE] 
 >⚙️ **Backend**: Java · Spring Boot · Python · Node.js  
 >🎨 **Frontend**: JS/TS · React · HTML/CSS  
 >🚀 **DevOps**: Docker · GitHub Actions · Git  
