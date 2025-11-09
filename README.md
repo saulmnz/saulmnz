@@ -6,10 +6,11 @@
 
 <br><br>
 
+<div style="text-align: center; margin: 20px 0;">
+    <img src="https://i.pinimg.com/originals/90/61/81/906181e6663a0e5f60b43e6cf8719b70.gif" width="100%" alt="GIF Animado" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+</div>
 
-![mario-working](https://github.com/user-attachments/assets/64f5835c-976c-45e2-986f-f395ec5ceee9)
-<br><br>
-
+<br>
 
 # 💻 Tech Stack:
 <br>
