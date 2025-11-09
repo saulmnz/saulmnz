@@ -1,42 +1,26 @@
-##  HOLA HOLAA, MI NOMBRE ES SAÚL 🫧
+# `Hellooo, I'm Saul🍓`
+ 
 
-> [!NOTE]  
-> **Técnico de grado Medio y Superior en Sistemas Microinformáticos en Red y Desarrollo de Aplicaciones Multiplataforma. Actualmente en continuo desarrollo y aprendizaje para mejorar mi dominio en el sector, siempre trato de buscar nuevos frameworks, patrones y buenas prácticas.**     
+## Developer skilled in software and systems management from Spain.
 
+
+<br><br>
+
+
+![mario-working](https://github.com/user-attachments/assets/64f5835c-976c-45e2-986f-f395ec5ceee9)
+<br><br>
+
+
+# 💻 Tech Stack:
 <br>
 
-<div style="text-align: center; margin: 20px 0;">
-    <img src="https://i.pinimg.com/originals/d9/0d/f5/d90df5a539713414ca2c2bafd396e5ee.gif" width="100%" alt="GIF Animado" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-</div>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br><br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
 <br>
-
-> [!IMPORTANT]
-> **Soy una persona curiosa con afán de aprender nuevas tecnologías y apasionado e interesado en la colaboración de proyectos innovadores y equipos donde pueda aportar valor y crecer junto a otros.**
-
-<br>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=saulmnz&show_icons=true&theme=dark&count_private=true&include_all_commits=true&bg_color=0D1117&border_color=30363D&text_color=FFFFFF&icon_color=6A5ACD" alt="GitHub Stats" width="480">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulmnz&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&text_color=FFFFFF&icon_color=6A5ACD" alt="Top Languages" width="480">
-  </div>
-  
-<br>
-    
-## TECNOLOGÍAS Y HERRAMIENTAS 📎
-
-> [!NOTE]  
-> ⚙️ **Backend: Java · Spring Boot · Python · Node.js**<br>  
-> 🎨 **Frontend: JS/TS · React · HTML/CSS**<br>  
-> 🎳 **DevOps: Docker · GitHub Actions · Git**<br>  
-> 🗄️ **DB: MySQL · MongoDB**<br>  
-> 📱 **Mobile: Kotlin · Flutter *(en progreso)***
-
----
-
-
-  
-</div>
-
-
-
